@@ -15,3 +15,4 @@ void inputKalimat(char kata[50], char kalimat[200])
 /*latihan commit*/
 /*latihan commit dhimas*/
 hola
+/*HALO INI EKO*/
