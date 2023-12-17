@@ -12,3 +12,4 @@ void inputKalimat(char kata[50], char kalimat[200])
         pointerKata = strtok(NULL, " ");
     }
 }
+/*latihan commit*/
